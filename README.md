@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">A Student passionate on Machine Learning from India</h3>
 
-- 🔭 I’m currently working on [**Floor paln Generation using stable diffusion**]
+- 🔭 I’m currently working on **Floor paln Generation using stable diffusion**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
